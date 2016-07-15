@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hi, my name is Inaki.'
-datePublished: '2016-07-15T19:14:40.294Z'
-dateModified: '2016-07-15T19:14:28.059Z'
+datePublished: '2016-07-15T21:34:28.941Z'
+dateModified: '2016-07-15T19:18:24.921Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-15-program-started.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-15-program-started.md
 url: program-started/index.html
 _type: Article
 
@@ -23,6 +23,6 @@ Hi, my name is Inaki.
 
 I was born in México. Grew up with Mexico's folklore, music and exquisite food but I dreamt of more, I dreamt of galactic society.
 
-My interests are as diverse as the universe, robotics and food but the main tool to access all of them is an analytical mind. I love thinking and brainstorming ideas.
+My interests are as diverse as the universe, robotics and food but my main interest is knowledge and analytical thinking. Let's brainstorm ideas together.
 
-I am currently a web software engineering and love to hear about new discoveries in every science domain.
+I 'm currently a web software engineer and love to hear about new discoveries in every science domain.
